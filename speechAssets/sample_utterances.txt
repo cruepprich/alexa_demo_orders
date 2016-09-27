@@ -1,0 +1,14 @@
+NumberOfOrdersForCustomer How may orders did {firstName} place
+NumberOfOrdersForCustomer How may orders did {firstName} {lastName} place
+NumberOfOrdersForCustomer Count orders for {customer}
+
+NumberOfItemsForCustomer How may items did {firstName} order
+NumberOfItemsForCustomer How may items did {firstName} {lastName} order
+NumberOfItemsForCustomer Count items for {customer}
+
+GetFirstEventIntent get events for {day}
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
